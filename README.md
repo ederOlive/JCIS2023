@@ -1,1 +1,2 @@
 # SDR_prototyping
+This repository contains code used for protyping SDR (Software Defined Radio) systems. The BER directory scripts were written in the GNU Octave platform, version 4.2.2. In the Tx and Rx directories are the transmitter and receiver projects, respectively, and in the low_resolution_converter directory is the code referring to the hierarchical block 'Low Resolution Converter'. All of them were developed in GNU Radio Companion, version 3.7.11.
